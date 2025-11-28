@@ -25,7 +25,7 @@ This repository contains the code, experiments on improving potato leaf disease 
 ## Installation Guide
 Clone the repo and install dependencies:
 ```bash
-git clone https://github.com/hansthisanke/potat-leaf-disease-classification-mobilenet-customs-variants.git
+git clone https://github.com/hansthisanke/potato-leaf-disease-classification-with-mobilenet-enhanced-models.git
 cd potat-leaf-disease-classification-mobilenet-customs-variants
 pip install -r requirements.txt
 
