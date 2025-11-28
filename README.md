@@ -10,6 +10,19 @@ This repository contains the code, experiments on improving potato leaf disease 
 - `requirements.txt` – Python dependencies
 - `README.md` – Project documentation
 
+## Datasets
+- **PlantVillage Open Dataset**  
+  Used for model fine-tuning.  
+  Contains potato leaf images categorized into:
+  - Late blight  
+  - Early blight  
+  - Healthy leaves  
+
+- **Real-field Imagery Dataset**  
+  Used for evaluation under uncontrolled environments.  
+  Contains sample potato leaf images collected in real-world conditions (lighting variations, background noise, natural field settings).  
+  This dataset was used to validate robustness beyond controlled datasets.
+
 ## Installation Guide
 Clone the repo and install dependencies:
 ```bash
